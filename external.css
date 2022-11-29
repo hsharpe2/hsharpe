@@ -1,0 +1,145 @@
+*{font-family: 'Lato', sans-serif;}
+
+ul{
+    display: inline-block;
+    list-style: none;
+    padding-left: 0;
+    margin-left: 350px;
+    }
+
+li a{
+    text-decoration: none;
+    color:white;
+    background-color:#b71540;
+    display: block;
+    width: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    }
+
+li a:hover {
+    background-color: #fc5c65;
+    }
+
+li a.active{
+    background-color:#079992;
+    }
+
+li {
+    float: left;
+    margin-left: 50px;
+}    
+
+.CV {
+    text-align: center;
+}
+
+.SIHeader{
+    text-align: center;
+}
+
+.SIgrid {
+    display: flex;
+    flex-direction: row;
+}
+
+.SIPhoto{
+    margin-left: 100px;
+
+}
+
+.SIparagraph{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:#7ed6df;
+    text-align: center;
+
+}
+
+.CInfo{
+    text-align: center;
+}
+
+.email{
+    text-align: center;
+}
+
+.PL{
+    text-align: center;
+}
+
+.PLgrid{
+    display:flex;
+    flex-direction: row;
+    background-color: #7ed6df;
+    margin-bottom: 40px;
+}
+
+.PLsadie{
+    margin-left: 50px;
+    position: relative;
+    z-index: 0;
+    display: inline-block;
+}
+
+.SadieInfo{
+    text-align: center;
+    background-color: white;
+}
+
+.PLparents{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.PLmd{
+    text-align: center;
+    background-color: white;
+}
+
+.PLdogs{
+    margin-right: 50px;
+}
+
+.HunterTitle{
+    text-align: center;
+    background-color: white;
+}
+
+.PrL{
+    text-align: center;
+}
+
+.PrLGrid{
+    display: flex;
+    flex-direction: row;
+}
+
+.AppSkiVid{
+    margin-left: 50px;
+}
+
+.Work{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.PrLGrid2{
+    display: flex;
+    flex-direction: row;
+}
+
+.audio{
+    margin-left: 50px;
+}
+
+.Edugraph{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.Edutitle{
+    text-align: center;
+}
